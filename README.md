@@ -42,3 +42,6 @@ For banks having a larger transaction value, if the recall is low, i.e., it is u
 So here, to save the banks from high-value fraudulent transactions, we have to focus on a high recall in order to detect actual fraudulent transactions.
 
 After performing several models, we have seen that in the balanced dataset with SMOTE technique the simplest Logistic regression model has good ROC score and also high Recall. Hence, we can go with the logistic model here. It is also easier to interpret and explain to the business.
+
+# Contact
+Created by [@GowthamiGanga] - feel free to contact me!
